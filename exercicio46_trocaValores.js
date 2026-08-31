@@ -4,8 +4,8 @@ let b = 20;
 console.log(a);
 console.log(b);
 
+let auxilio = 10;
 a = 20;
-b = 10;
 
 console.log(a);
-console.log(b);
+console.log(auxilio);
