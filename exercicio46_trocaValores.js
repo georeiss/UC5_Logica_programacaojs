@@ -1,11 +1,11 @@
-let a = 10;
-let b = 20;
+let variavelA = 10;
+let variavelB = 20;
 
-console.log(a);
-console.log(b);
+console.log(variavelA);
+console.log(variavelB);
 
 let auxilio = 10;
-a = 20;
+variavelA = 20;
 
-console.log(a);
+console.log(variavelA);
 console.log(auxilio);
